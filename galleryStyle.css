@@ -1,0 +1,13 @@
+img {
+	border: white;
+	border-style: solid;
+	border-radius: 35px;
+}
+
+.gallery td {
+		padding: 2px;
+		transition: transform .2s;
+	}
+.gallery td:hover {
+		transform: scale(1.5);
+	}
