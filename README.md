@@ -27,6 +27,9 @@ What You Can Do
 Activity 6 - Album
 ![album](https://github.com/rogincodes/WSAT-Activities/blob/main/snapshots/Album.png)
 
+Album Preview
+![albumpreview]([https://github.com/rogincodes/WSAT-Activities/blob/main/snapshots/Album.png](https://github.com/rogincodes/WSAT-Activities/blob/main/snapshots/Album%20Preview.gif))
+
 Ice Bear
 ![icebear](https://github.com/rogincodes/WSAT-Activities/blob/main/snapshots/Ice%20Bear.png)
 
